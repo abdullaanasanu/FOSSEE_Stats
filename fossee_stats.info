@@ -1,7 +1,0 @@
-name = Fossee stats
-description = Fossee stats for FOSSEE .
-package = STATISTICS
-core = 7.x
-
-
-
